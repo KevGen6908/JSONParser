@@ -27,6 +27,7 @@ public class Parser {
         DATE
     }
 
+
     static class Token{
         TokenType tokenType;
         String value;
