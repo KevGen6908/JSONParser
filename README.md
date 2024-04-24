@@ -4,4 +4,10 @@ Arrays
 Collections
 It is based on JavaCC with JSON grammar
 
+The ClassToParser directory contains JSON files and the corresponding classes for these files. They are implemented for testing the project. 
+
+The JavaCCParser directory is a JSON grammar from the JavaCC JAR
+
+The main implementation is in the JSONObject class
+
 There are ready-made tests in the project
