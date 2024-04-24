@@ -1,0 +1,8 @@
+{
+  "title": "The Lion King",
+  "director": "Roger Allers",
+  "actors": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+  "genres": ["Animation", "Adventure", "Drama"],
+  "releaseYear": 1994,
+  "isAnimated": true
+}

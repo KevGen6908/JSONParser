@@ -1,0 +1,7 @@
+{
+  "name": "Whiskers",
+  "age": "3",
+  "color": "gray",
+  "eating": [12, 15, 17, 19, 21],
+  "toys": ["ball", "feather toy", "scratching post"]
+}
